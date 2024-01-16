@@ -7,7 +7,7 @@
 
   <ItemGroup>
     <PackageReference Include="easynetq" Version="3.4.5" />
-    <PackageReference Include="System.Data.SqlClient" Version="4.6.0" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.6" />
   </ItemGroup>
 
   <ItemGroup>
